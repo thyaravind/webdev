@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{29BD0D09-F54E-4AC3-9D4C-ABD4B544B45B}|Default">
+  <MonoDevelop.Ide.ItemProperties.dotNetCore FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.UnitTesting FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp/Program.cs">
+    <Files>
+      <File FileName="dotNetCore/dotNetCore.csproj" Line="1" Column="1" />
+      <File FileName="UnitTesting/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/Class1.cs" Line="7" Column="1" />
+      <File FileName="dotNetCore/Program.cs" Line="1" Column="1" />
+      <File FileName="dotNetCore/Startup.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotNetCore" expanded="True" selected="True">
+            <Node name="ClassLibrary" expanded="True" />
+            <Node name="ConsoleApp" expanded="True" />
+            <Node name="dotNetCore" expanded="True" />
+            <Node name="UnitTesting" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClassLibrary FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp FirstBuild="True" />
+</Properties>

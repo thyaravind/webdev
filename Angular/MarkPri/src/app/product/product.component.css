@@ -1,0 +1,23 @@
+.product {
+    margin: 10px;
+    width: 100px;
+    float: left;
+    border: 3px solid rgb(83, 81, 92);
+    padding: 10px;
+
+}
+
+.price {
+    border: 0px solid rgb(83, 81, 92);
+
+}
+
+
+.sale {
+    border: 3px solid rgb(57, 151, 34);
+
+}
+
+.stock * {
+    margin: 5px;
+}

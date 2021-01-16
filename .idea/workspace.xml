@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dac6f2a-9496-46c2-a5b8-c8d8d67fa689" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/Blazor101/Pages/Counter.razor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/Blazor101/Pages/FetchDataBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject.Models/Department.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject.Models/EmployeeObj.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject.Models/Gender.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject.Models/SampleEmployeeProject.Models.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/App.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Pages/Employee.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Pages/EmployeeBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Pages/EmployeeList.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Pages/EmployeeListBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Pages/Index.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/SampleEmployeeProject.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Shared/MainLayout.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/Shared/NavMenu.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/_Imports.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/css/bootstrap/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/css/open-iconic/ICON-LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/css/open-iconic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/css/open-iconic/font/fonts/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/css/open-iconic/font/fonts/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/css/open-iconic/font/fonts/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlazorWA/Blazor101/SampleEmployeeProject/wwwroot/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mtVswb2HtnD89mIIoiG6rtux3F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dac6f2a-9496-46c2-a5b8-c8d8d67fa689" name="Default Changelist" comment="" />
+      <created>1610313086415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610313086415</updated>
+      <workItem from="1610313089073" duration="3359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TypeScript/main.js.map" />
+        <option value="$PROJECT_DIR$/TypeScript/main.js" />
+      </list>
+    </option>
+  </component>
+</project>

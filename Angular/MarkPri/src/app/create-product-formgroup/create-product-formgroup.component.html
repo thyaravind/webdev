@@ -1,0 +1,73 @@
+<p>create-product-formgroup works!</p>
+
+
+<form (ngSubmit)='create_product(productForm)' #productForm = 'ngForm'>
+
+    <!-- Using ngModelroup instead-->
+
+    <div ngModelGroup='productFormGroup'>
+
+
+
+        <div class= 'product-name'>
+            <input type = 'text' name='name' ngModel>
+
+        </div>
+
+
+
+        <div class= 'product-type' name='type' ngModel>
+
+            <select>
+                <option>books</option>
+                <option>confectionary</option>
+                <option>other</option>
+            </select>
+
+        </div>
+
+
+        <!-- <div class= 'product-type'>
+
+            <select [(ngModel)]='product.buyOption'>
+                <option *ngFor = "let option of buyOptions" [ngValue]='option'>{{option}}</option>
+                
+            </select>
+
+        </div>-->
+
+
+
+        <div class= 'price' name='price' ngModel>
+            <input type = 'text' >
+
+        </div>
+
+        <div class= 'SKU'>
+            <input type = 'text' name="sku" #sku='ngModel' ngModel>
+
+        </div>
+
+        <div *ngIf="sku.pristine" class = 'name-warning' ngModel>
+            please use all capital letters and less than 10 characters for SKU
+        </div>
+
+        <div class= 'Seller'>
+            <input type = 'text' name="seller" #seller = "ngModel" ngModel>
+
+        </div>
+
+        <div *ngIf="seller.dirty" class = 'name-warning'ngModel>
+            thanks for adding seller information
+        </div>
+
+
+        <button type = 'submit'>Submit</button>
+
+    </div>
+</form>
+
+
+
+
+</div>

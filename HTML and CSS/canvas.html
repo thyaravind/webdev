@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+
+
+</head>
+<body>
+<h2>HTML Canvas</h2>
+<canvas id="canvas1" style="border: 2px solid #000000"></canvas>
+
+<script>
+    var c = document.getElementById("canvas1");
+    var con = c.getContext("2d");
+    con.moveTo(0,0);
+    con.lineTo(200,100);
+    con.stroke();
+</script>
+
+</body>
+</html>

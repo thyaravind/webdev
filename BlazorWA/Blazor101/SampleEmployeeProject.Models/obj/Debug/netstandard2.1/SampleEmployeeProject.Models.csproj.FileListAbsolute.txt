@@ -1,0 +1,9 @@
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/bin/Debug/netstandard2.1/SampleEmployeeProject.Models.deps.json
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/bin/Debug/netstandard2.1/SampleEmployeeProject.Models.dll
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/bin/Debug/netstandard2.1/SampleEmployeeProject.Models.pdb
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/obj/Debug/netstandard2.1/SampleEmployeeProject.Models.csprojAssemblyReference.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/obj/Debug/netstandard2.1/SampleEmployeeProject.Models.AssemblyInfoInputs.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/obj/Debug/netstandard2.1/SampleEmployeeProject.Models.AssemblyInfo.cs
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/obj/Debug/netstandard2.1/SampleEmployeeProject.Models.csproj.CoreCompileInputs.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/obj/Debug/netstandard2.1/SampleEmployeeProject.Models.dll
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/BlazorWA/Blazor101/SampleEmployeeProject.Models/obj/Debug/netstandard2.1/SampleEmployeeProject.Models.pdb

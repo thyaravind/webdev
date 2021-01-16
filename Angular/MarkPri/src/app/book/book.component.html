@@ -1,0 +1,21 @@
+<p>book works!</p>
+
+
+<div class="product"[class]="product.priceDropped()? 'notsale' : 'sale'">
+
+    <div class="product-name">{{product.name}} </div>
+            
+    <div class = "product-image"><img src="assets/image_placeholder.png" width='100' height='50'/></div>
+    <div class = 'price' >${{ product.price }}</div>
+
+    <button (click)='toggleWishList($event)' [disabled]="product.wishlist"> Add to Wishlist </button>
+
+    <div>
+        <button (click)='reduceOrderQuantity($event)' [disabled]="product.orderQuantityIsZero()"> - </button>
+        <span>{{product.order_quantity}}</span>
+        <button (click)='addOrderQuantity($event)' [disabled]=""> + </button>
+    </div>
+</div>
+
+
+

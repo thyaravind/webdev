@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4706FC6D-B3E6-49E4-808E-7A99DA7F8BD5}|Default">
+  <MonoDevelop.Ide.ItemProperties.InventoryAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InventoryAPI/Data/HelperClass.cs">
+    <Files>
+      <File FileName="InventoryAPI/Program.cs" Line="10" Column="23" />
+      <File FileName="InventoryAPI/Controllers/orderController.cs" />
+      <File FileName="InventoryUnitTests/UnitTest1.cs" Line="22" Column="1" />
+      <File FileName="InventoryAPI/Data/DataAccess/DBAccess.cs" Line="1" Column="1" />
+      <File FileName="InventoryAPI/Data/HelperClass.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InventoryApp" expanded="True">
+            <Node name="InventoryAPI" expanded="True">
+              <Node name="BusinessLogic" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="DataAccess" expanded="True" />
+                <Node name="HelperClass.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="InventoryUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

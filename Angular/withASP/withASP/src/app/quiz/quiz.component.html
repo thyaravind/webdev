@@ -1,0 +1,26 @@
+<mat-card style="margin: 25px">
+
+
+    <md-card-title>
+      <h2>
+      <span *ngIf="!quiz.id">New Quiz</span>
+      <span *ngIf="quiz.id">Edit Quiz</span>
+      </h2>
+    </md-card-title>
+  
+    <form >
+  
+      <mat-card-content>
+        <mat-form-field class = 'full-width'>
+          <input  matInput [(ngModel)]="quiz.title" placeholder = 'quiz title' name="quiz" >
+        </mat-form-field>
+      </mat-card-content>
+  
+    </form>
+    <mat-card-actions>
+    <button (click)='post(quiz)' *ngIf="!quiz.id" mat-button>submit</button>
+    <button (click)='put(quiz)' *ngIf="quiz.id" md-button>Edit</button>
+    <button (click)='quiz = {}' *ngIf="quiz.id" md-button>New</button>
+    <button (click)='quiz = {}' *ngIf="quiz.id" [routerLink]="['/question',quiz.id]" md-button>Add Questions</button>
+    </mat-card-actions>
+  </mat-card>

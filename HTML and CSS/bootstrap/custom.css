@@ -1,0 +1,33 @@
+.header * {
+    padding-top: 5px;
+    color: lightcyan;
+    padding-bottom: 5px;
+    background: #169de3;
+    margin-bottom: 10px;
+}
+
+
+.main_color_bg {
+
+    background: #169de3 !important;
+    border-color: #169de3 !important;
+}
+
+
+.breadcrumb {
+
+    background: #c5cacf;
+}
+
+#list_chamber * {
+    padding: 100px;
+}
+
+#detail_chamber {
+    margin-top: -10px;
+    background: #eeeeee;
+}
+
+.navbar {
+
+}

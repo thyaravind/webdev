@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CoN3DREBPIkK0iwsceEvzNcRMOOpoCdZBdPZZWOcK3woaPnnclkI6JgqjqvjXoVRa25aCNDUz+Bklc5yvWPdzg==",
+  "success": true,
+  "projectFilePath": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/CSharp/202/consoleapp/consoleapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/aravind/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/aravind/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

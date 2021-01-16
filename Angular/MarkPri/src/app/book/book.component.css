@@ -1,0 +1,19 @@
+.product {
+    margin: 10px;
+    width: 100px;
+    border: 3px solid rgb(83, 81, 92);
+    padding: 10px;
+
+}
+
+.price {
+    border: 0px solid rgb(83, 81, 92);
+
+}
+
+
+.sale {
+    color:  rgb(57, 151, 34);
+    border: 3px solid rgb(57, 151, 34);
+
+}

@@ -1,0 +1,12 @@
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/bin/Debug/netcoreapp3.1/getting_started.deps.json
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/bin/Debug/netcoreapp3.1/getting_started.runtimeconfig.json
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/bin/Debug/netcoreapp3.1/getting_started.runtimeconfig.dev.json
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/bin/Debug/netcoreapp3.1/getting_started.dll
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/bin/Debug/netcoreapp3.1/getting_started.pdb
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/obj/Debug/netcoreapp3.1/getting_started.csprojAssemblyReference.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/obj/Debug/netcoreapp3.1/getting_started.AssemblyInfoInputs.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/obj/Debug/netcoreapp3.1/getting_started.AssemblyInfo.cs
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/obj/Debug/netcoreapp3.1/getting_started.csproj.CoreCompileInputs.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/obj/Debug/netcoreapp3.1/getting_started.dll
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/obj/Debug/netcoreapp3.1/getting_started.pdb
+/Users/aravind/OneDrive/OneDocuments/Algorithm/webdev/dotNet/getting_started/getting_started/obj/Debug/netcoreapp3.1/getting_started.genruntimeconfig.cache

@@ -1,0 +1,75 @@
+
+<!--Created using template based forms without form group (ngModelgroup) -->
+
+
+<div class= 'form-group'>
+
+    <form (ngSubmit)='product.create(productForm)' #productForm = 'ngForm'>
+
+
+        <!-- Using traditional event and class binding -->
+
+        <div class= 'product-name'>
+            <input type = 'text' placeholder="name" value="" (input)="product.name=$event.target.value">
+
+        </div>
+
+
+
+        <div class= 'product-type'>
+
+            <select>
+                <option>books</option>
+                <option>confectionary</option>
+                <option>other</option>
+            </select>
+
+        </div>
+
+
+        <!-- <div class= 'product-type'>
+
+            <select [(ngModel)]='product.buyOption'>
+                <option *ngFor = "let option of buyOptions" [ngValue]='option'>{{option}}</option>
+                
+            </select>
+
+        </div>-->
+
+
+
+        <div class= 'price'>
+            <input type = 'text' placeholder="price" [value]="product.price" (input)="product.price=$event.target.value">
+
+        </div>
+
+        <!-- Using ngModel expanded version,template reference variable to state and validation-->
+        <div class= 'SKU'>
+            <input type = 'text' name="sku" #sku='ngModel' [ngModel] = 'product.sku' (ngModelChange)='$event'>
+
+        </div>
+
+        <div *ngIf="sku.pristine" class = 'name-warning'>
+            please use all capital letters and less than 10 characters for SKU
+        </div>
+
+        <!-- Using ngModel banana in the box version-->
+
+        <div class= 'Seller'>
+            <input type = 'text' name="seller" #seller = "ngModel" [(ngModel)] = 'product.seller'>
+
+        </div>
+
+        <div *ngIf="seller.dirty" class = 'name-warning'>
+            thanks for adding seller information
+        </div>
+
+
+        <button type = 'submit'>Submit</button>
+
+    </form>
+
+
+
+
+</div>

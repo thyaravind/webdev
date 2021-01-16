@@ -1,0 +1,34 @@
+<p>product works!</p>
+
+
+<!--Used normal data interpolation, event and class binding here-->
+
+
+
+
+
+<!--Using ngClass for class binding and ngIf for structural binding-->
+<!--Adding ngFor and todo ngSwitch-->
+
+<div class='produt-container' *ngFor='let product of products; index as i'>
+
+    <div class="product" [ngClass]="product.saleCSS">
+
+        <div class="product-name"><b> {{product.name}} </b></div>
+            
+        <div class = "product-image"><img src="assets/image_placeholder.png" width='100' height='50'/></div>
+            
+
+        <div class = 'price'>${{ product.price }}</div>
+
+        <button (click)='toggleWishList($event,i)' [disabled]="product.wishlist"> Add to Wishlist </button>
+
+        <div class = 'stock'>
+            <button (click)='reduceOrderQuantity($event,i)' *ngIf="product.orderQuantityIsZero()"> - </button>
+            <span>{{product.order_quantity}}</span>
+            <button (click)='addOrderQuantity($event,i)' [disabled]=""> + </button>
+        </div>
+    </div>
+
+</div>
+

@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ConsoleApp/ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ClassLibrary/ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ClassLibrary/ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ClassLibrary/ClassLibrary.csproj",
+        "packagesPath": "/Users/aravind/.nuget/packages/",
+        "outputPath": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ClassLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aravind/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ConsoleApp/ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ConsoleApp/ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ConsoleApp/ConsoleApp.csproj",
+        "packagesPath": "/Users/aravind/.nuget/packages/",
+        "outputPath": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aravind/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ClassLibrary/ClassLibrary.csproj": {
+                "projectPath": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNetCore/ClassLibrary/ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

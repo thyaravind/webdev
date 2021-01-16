@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Line chart</title>
+    <script src="../libs/d3/d3.min.js" type="text/javascript"></script>
+    <style>
+        path{
+            stroke-width: 1px;
+            fill:none;
+        }
+        path.cost{
+            stroke: #FF334F;
+        }
+        path.raw{
+            stroke: #0F5033;
+        }
+        path.work{
+            stroke: #C8C837;
+        }
+        path.storage{
+            stroke: #5DBDBF;
+        }
+        .axisStyle{
+            font-size: 12pt;
+        }
+    </style>
+</head>
+<body>
+<div style="width: 80%;">
+    <svg id="main" width=100% height=100% viewbox="0 0 1000 800"></svg>
+</div>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8">
+    // select svg element
+    let svg = d3.select('svg#main');
+    let margins = {x:100, y:100};
+
+    X = [1,2,3,4,5,6,7,8,9]
+
+    console.log(d3.sum(d3.map(X,function(d,i){return d*i})))
+
+
+
+    // get the data
+    d3.csv('./data_sample.csv', d3.autoType)
+        .then(function (data){
+
+            // get the data and svg element extent (range and domain)
+
+            let rng = svg.attr('viewBox').split(' ');
+            rng = d3.map(rng, function(d){return parseInt(d)});
+            let xRng = [rng[0] + margins.x, rng[2] - margins.x];
+            let yRng = [rng[3] - margins.y, rng[1] + margins.y];
+
+            // data, date - domain
+            let date_extent = d3.extent(data,
+                function (d){return d.date})
+            let cost_extent = d3.extent(data,
+                function (d){return d.EstimatedCost})
+            // set 0 as min
+            cost_extent[0] = 0;
+
+            // make the X and Y scale
+            let xScale = d3.scaleTime().domain(date_extent).range(xRng)
+            let yScale  = d3.scaleLinear().domain(cost_extent).range(yRng)
+
+            // make line generators
+            let estimatedcost_line = d3.line()
+                .x(function(d){return xScale(d.date)})
+                .y(function(d){return yScale(d.EstimatedCost)})
+            let rawmaterial_line = d3.line()
+                .x(function(d){return xScale(d.date)})
+                .y(function(d){return yScale(d.RawMaterial)})
+            let workmanship_line = d3.line()
+                .x(function(d){return xScale(d.date)})
+                .y(function(d){return yScale(d.Workmanship)})
+            let yearlystorage_line = d3.line()
+                .x(function(d){return xScale(d.date)})
+                .y(function(d){return yScale(d.YearlyStorage)})
+
+            // add path element to svg
+            let fig = svg.append('g');
+            fig.data([data]);
+            fig.append('path').attr('d', function(d){return estimatedcost_line(d)})
+                .attr("class", "cost")
+            fig.append('path').attr('d', function(d){return rawmaterial_line(d)})
+                .attr("class", "raw")
+            fig.append('path').attr('d', function(d){return workmanship_line(d)})
+                .attr("class", "work")
+            fig.append('path').attr('d', function(d){return yearlystorage_line(d)})
+                .attr("class", "storage")
+
+            // add the axis
+                 let xAxis = svg.append('g')
+                .attr('class',"axisStyle")
+                .attr('transform', 'translate('+(0)+','+(yRng[0])+")")
+                .call(d3.axisBottom(xScale));
+            let yAxis = svg.append('g')
+                .attr('class',"axisStyle")
+                .attr('transform', 'translate('+(margins.x)+','+(0)+")")
+                .call(d3.axisLeft(yScale));
+
+
+        })
+</script>
+</body>
+</html>

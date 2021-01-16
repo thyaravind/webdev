@@ -1,0 +1,31 @@
+<mat-card style="margin: 25px">
+
+
+  <md-card-title>
+    <h2>
+      <span>Register</span>
+    </h2>
+  </md-card-title>
+
+  <mat-card-content>
+    <form [formGroup]="form" (ngSubmit)="auth.Login(form.value)">
+
+
+      <mat-form-field class = 'full-width'>
+        <input  matInput placeholder = 'Username' formControlName="username" >
+      </mat-form-field>
+
+      <mat-form-field class = 'full-width'>
+        <input  type="email" matInput placeholder = 'Email Address' formControlName="email" >
+      </mat-form-field>
+
+      <mat-form-field class = 'full-width'>
+        <input type="password" matInput placeholder = 'Password' formControlName="password" >
+      </mat-form-field>
+
+      <button [disabled]="!form.valid" mat-button>Register</button>
+    </form>
+
+  </mat-card-content>
+
+</mat-card>

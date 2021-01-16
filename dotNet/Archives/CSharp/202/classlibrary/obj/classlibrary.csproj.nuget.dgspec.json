@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/CSharp/202/classlibrary/classlibrary.csproj": {}
+  },
+  "projects": {
+    "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/CSharp/202/classlibrary/classlibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/CSharp/202/classlibrary/classlibrary.csproj",
+        "projectName": "classlibrary",
+        "projectPath": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/CSharp/202/classlibrary/classlibrary.csproj",
+        "packagesPath": "/Users/aravind/.nuget/packages/",
+        "outputPath": "/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/CSharp/202/classlibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aravind/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

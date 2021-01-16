@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D571128E-49BF-4979-B5E4-A15DE4AE1FA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP_API/Startup.cs">
+    <Files>
+      <File FileName="ASP_API/Startup.cs" Line="97" Column="10" />
+      <File FileName="ASP_API/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP_API" expanded="True">
+            <Node name="ASP_API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ASP__API PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>

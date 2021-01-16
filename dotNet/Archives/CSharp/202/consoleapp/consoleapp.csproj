@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  
+
+  <ItemGroup>
+    <Content Include="..\Data\data.txt">
+      <Link>Data\data.txt</Link>
+    </Content>
+  </ItemGroup>
+
+</Project>

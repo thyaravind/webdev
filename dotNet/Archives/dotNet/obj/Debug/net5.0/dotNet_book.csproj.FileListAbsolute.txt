@@ -1,0 +1,15 @@
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/bin/Debug/net5.0/dotNet_book.deps.json
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/bin/Debug/net5.0/dotNet_book.runtimeconfig.json
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/bin/Debug/net5.0/dotNet_book.runtimeconfig.dev.json
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/bin/Debug/net5.0/dotNet_book.dll
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/bin/Debug/net5.0/ref/dotNet_book.dll
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/bin/Debug/net5.0/dotNet_book.pdb
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/dotNet_book.csprojAssemblyReference.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/dotNet_book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/dotNet_book.AssemblyInfoInputs.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/dotNet_book.AssemblyInfo.cs
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/dotNet_book.csproj.CoreCompileInputs.cache
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/dotNet_book.dll
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/ref/dotNet_book.dll
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/dotNet_book.pdb
+/Users/aravind/OneDrive/OneDocuments/Algorithm/dotNet/dotNet_book/obj/Debug/net5.0/dotNet_book.genruntimeconfig.cache

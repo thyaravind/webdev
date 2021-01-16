@@ -1,0 +1,14 @@
+<mat-card style="margin: 25px">
+    <mat-card-title><h2>Quiz Questions</h2></mat-card-title>
+      <mat-card-content>
+          <mat-list *ngFor="let question of questions">
+            <mat-list-item class="clicklink" (click)="api.clickQuestion(question)">{{question.text}}</mat-list-item>
+          </mat-list>
+
+      </mat-card-content>
+  
+    <mat-card-actions>
+    </mat-card-actions>
+  </mat-card>
+
+<question></question>

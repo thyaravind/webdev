@@ -1,0 +1,15 @@
+hgroup {
+    position: relative;
+    width: 100%;
+    left: 10%;
+
+}
+
+p {
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    left: 15px;
+    top: 45px;
+
+}

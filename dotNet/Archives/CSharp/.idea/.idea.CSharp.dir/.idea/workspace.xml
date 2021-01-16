@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e70fdfc2-3c5a-4683-9ace-059a431c9e0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/202/consoleapp/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/getting_started/getting_started/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OOPS/consoleapp/Program.cs" />
+        <option value="$PROJECT_DIR$/OOPS/classlibrary/Person.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mJFxyY2BA3jniSTsSN2jD2ryTq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="DotNetProject" />
+        <option value="RunExe" />
+      </set>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e70fdfc2-3c5a-4683-9ace-059a431c9e0f" name="Default Changelist" comment="" />
+      <created>1609204040490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609204040490</updated>
+      <workItem from="1609204045917" duration="2920000" />
+      <workItem from="1610097450567" duration="215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1990" y="353" width="756" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610097620045">
+      <screen x="1920" y="23" width="1080" height="1897" />
+    </state>
+    <state x="1990" y="353" width="756" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057/1920.23.1080.1897@1920.23.1080.1897" timestamp="1610097620045" />
+    <state x="427" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1609207053993" />
+    <state x="472" y="191" key="SettingsEditor" timestamp="1609207081357">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="472" y="191" key="SettingsEditor/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1609207081357" />
+    <state x="626" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1609205031062">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="626" y="257" width="672" height="678" key="search.everywhere.popup/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1609205031062" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
