@@ -1,0 +1,7 @@
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\bin\Debug\ConsoleApplication.exe.config
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\bin\Debug\ConsoleApplication.exe
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\bin\Debug\ConsoleApplication.pdb
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\obj\x86\Debug\Scratch.csprojAssemblyReference.cache
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\obj\x86\Debug\Scratch.csproj.CoreCompileInputs.cache
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\obj\x86\Debug\ConsoleApplication.pdb

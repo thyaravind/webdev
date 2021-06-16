@@ -1,0 +1,7 @@
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\bin\Debug\AutoPaymentReminderConsole.exe.config
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\bin\Debug\AutoPaymentReminderConsole.exe
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\bin\Debug\AutoPaymentReminderConsole.pdb
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\obj\Debug\fromScratch.csproj.AssemblyReference.cache
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\obj\Debug\fromScratch.csproj.CoreCompileInputs.cache
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\obj\Debug\AutoPaymentReminderConsole.exe
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNetScratch\obj\Debug\AutoPaymentReminderConsole.pdb

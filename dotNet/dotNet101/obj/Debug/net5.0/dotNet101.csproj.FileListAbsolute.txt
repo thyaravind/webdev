@@ -1,0 +1,16 @@
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\bin\Debug\net5.0\dotNet101.exe
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\bin\Debug\net5.0\dotNet101.deps.json
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\bin\Debug\net5.0\dotNet101.runtimeconfig.json
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\bin\Debug\net5.0\dotNet101.runtimeconfig.dev.json
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\bin\Debug\net5.0\dotNet101.dll
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\bin\Debug\net5.0\ref\dotNet101.dll
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\bin\Debug\net5.0\dotNet101.pdb
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\dotNet101.csprojAssemblyReference.cache
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\dotNet101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\dotNet101.AssemblyInfoInputs.cache
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\dotNet101.AssemblyInfo.cs
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\dotNet101.csproj.CoreCompileInputs.cache
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\dotNet101.dll
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\ref\dotNet101.dll
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\dotNet101.pdb
+C:\Users\areddy\Desktop\Algorithm\webdev\dotNet\dotNet101\obj\Debug\net5.0\dotNet101.genruntimeconfig.cache
