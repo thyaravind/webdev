@@ -3,14 +3,14 @@
 	import '../app.css';
 </script>
 
-<Header />
+<!--todo sidebar-->
 
 <main>
 	<slot />
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p>Links:  <a href="https://blank.surf">blank.surf</a></p>
 </footer>
 
 <style>
