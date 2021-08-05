@@ -5,6 +5,8 @@
 
 <!--todo sidebar-->
 
+<Header />
+
 <main>
 	<slot />
 </main>
